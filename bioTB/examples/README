@@ -1,0 +1,3 @@
+run ./bioparc to generate the couplings.
+dimer.fchk frag1.fchk frag2.fchk and dimer.log from gaussian output are required.
+
