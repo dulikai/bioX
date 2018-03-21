@@ -1,0 +1,4 @@
+wavefunction topology is required to describe the fragment electronic wavefunction information.
+wft format
+require:
+frag1.fchk frag2.fchk dimer.fchk dimer.log
